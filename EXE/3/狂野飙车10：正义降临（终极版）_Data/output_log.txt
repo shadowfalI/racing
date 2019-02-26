@@ -1,0 +1,67 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930M (ID=0x1346)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.148 seconds
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Project\RacingGame\RacingGame\EXE\3\狂野飙车10：正义降临（终极版）_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.642000 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 194c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.489300 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 319.
+Total: 0.285000 ms (FindLiveObjects: 0.030600 ms CreateObjectMapping: 0.035900 ms MarkObjects: 0.207300 ms  DeleteObjects: 0.010200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'PolyTerrain/Splatmap/Lightmap-FirstPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Lightmap-BaseMap' not found
+UnloadTime: 2.023800 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1791.
+Total: 4.875800 ms (FindLiveObjects: 0.127700 ms CreateObjectMapping: 0.102900 ms MarkObjects: 0.446000 ms  DeleteObjects: 4.198400 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 82)
+
